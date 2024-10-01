@@ -11,4 +11,4 @@ This project simulates a real-world scenario where a wedding planner is tasked w
 
 The deliverable is a collection of SQL queries, designed with clear, well-organized comments to explain the rationale for category definitions and assumptions made when vendors are unavailable for certain combinations.
 
-<sub>This is a group project</sub>
+<sub>This is a group project.</sub>
