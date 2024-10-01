@@ -1,4 +1,4 @@
-# Preparing Client Proposals: SQL-based Wedding Planning (December 2023)
+# Wedding Planning (December 2023)
 ![Alt text](weddinglogo.png)
 
 This project simulates a real-world scenario where a wedding planner is tasked with preparing multiple event options for a client based on various wedding sizes and budget levels. The client seeks insights into pricing for small, medium, and large weddings, with categories ranging from inexpensive to luxury.
